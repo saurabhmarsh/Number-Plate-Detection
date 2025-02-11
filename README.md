@@ -26,6 +26,3 @@ This project is a **real-time number plate detection system** built using **Open
 - **Bootstrap 5 (for UI)**
 - **HTML, CSS, JavaScript**
 
----
-
-## 📂 **Project Structure**
